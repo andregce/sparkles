@@ -1,0 +1,4 @@
+/node_modules
+.env
+custom-emojis.js
+database.json
